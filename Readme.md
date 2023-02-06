@@ -1,5 +1,9 @@
-# Data Repository
-This repository contains source code and data related to the paper titled _The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects_, which appears in the proceedings of the International Conference on Robotics and Automation 2023.
+# The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects
+This repository contains source code and data related to the paper titled _The Sum of Its Parts: Visual Part Segmentation for Inertial Parameter Identification of Manipulated Objects_, which will appear in the proceedings of the _International Conference on Robotics and Automation (ICRA) 2023_.
+
+The accompanying [paper website can be found here](https://papers.starslab.ca/part-segmentation-for-inertial-identification/).
+
+## Data Repository
 
 The structure of this data repository is as follows:
 - `warm-started-part-segmentation` :  
