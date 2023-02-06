@@ -1,0 +1,32 @@
+Mass properties of Mallet
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 236.78 grams
+
+Volume = 294092.52 cubic millimeters
+
+Surface area = 38200.78  square millimeters
+
+Center of mass: ( millimeters )
+	X = 97.35
+	Y = 192.56
+	Z = 177.40
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.00,  1.00,  0.00)   	Px = 154038.43
+	 Iy = (-1.00,  0.00,  0.00)   	Py = 1408283.82
+	 Iz = ( 0.00,  0.00,  1.00)   	Pz = 1510130.13
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 1408283.82	Lxy = -0.03	Lxz = -0.01
+	Lyx = -0.03	Lyy = 154038.43	Lyz = 0.00
+	Lzx = -0.01	Lzy = 0.00	Lzz = 1510130.13
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 17639885.95	Ixy = 4438483.31	Ixz = 4088987.80
+	Iyx = 4438483.31	Iyy = 9849476.72	Iyz = 8088581.88
+	Izx = 4088987.80	Izy = 8088581.88	Izz = 12533830.74

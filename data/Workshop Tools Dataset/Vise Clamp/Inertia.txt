@@ -1,0 +1,32 @@
+Mass properties of User Library-6SP
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 224.76 grams
+
+Volume = 32265.30 cubic millimeters
+
+Surface area = 28387.39  square millimeters
+
+Center of mass: ( millimeters )
+	X = 77.65
+	Y = 4.51
+	Z = 0.00
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.98, -0.18,  0.00)   	Px = 117380.69
+	 Iy = ( 0.18,  0.98,  0.00)   	Py = 454078.08
+	 Iz = ( 0.00,  0.00,  1.00)   	Pz = 567759.11
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 128102.27	Lxy = -59118.32	Lxz = 0.08
+	Lyx = -59118.32	Lyy = 443356.50	Lyz = -0.06
+	Lzx = 0.08	Lzy = -0.06	Lzz = 567759.11
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 132682.22	Ixy = 19665.19	Ixz = 0.34
+	Iyx = 19665.19	Iyy = 1798576.60	Iyz = -0.04
+	Izx = 0.34	Izy = -0.04	Izz = 1927559.17

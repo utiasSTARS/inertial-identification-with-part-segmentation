@@ -1,0 +1,34 @@
+Mass properties of User Library-BALL POINT ALLEN KEY
+     Configuration: .375" HEX
+     Coordinate system: -- default --
+
+Density = 0.008 grams per cubic millimeter
+
+Mass = 128.080 grams
+
+Volume = 16633.810 cubic millimeters
+
+Surface area = 7147.313  square millimeters
+
+Center of mass: ( millimeters )
+	X = 39.692
+	Y = -72.811
+	Z = 0.000
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = (-0.109,  0.994,  0.000)   	Px = 11470.329
+	 Iy = (-0.994, -0.109,  0.000)   	Py = 417143.939
+	 Iz = ( 0.000,  0.000,  1.000)   	Pz = 427011.514
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 412289.405	Lxy = -44111.108	Lxz = 0.000
+	Lyx = -44111.108	Lyy = 16324.863	Lyz = -0.002
+	Lzx = 0.000	Lzy = -0.002	Lzz = 427011.514
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 1091300.551	Ixy = -414264.281	Ixz = 0.001
+	Iyx = -414264.281	Iyy = 218108.549	Iyz = -0.003
+	Izx = 0.001	Izy = -0.003	Izz = 1307806.346

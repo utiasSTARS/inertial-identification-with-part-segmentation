@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/phil/TetGen/tetgen1.6.0/predicates.cxx
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+float.h
+-
+fpu_control.h
+-
+tetgen.h
+/home/phil/TetGen/tetgen1.6.0/tetgen.h
+CGAL/Exact_predicates_inexact_constructions_kernel.h
+-
+
+/home/phil/TetGen/tetgen1.6.0/tetgen.cxx
+tetgen.h
+/home/phil/TetGen/tetgen1.6.0/tetgen.h
+
+/home/phil/TetGen/tetgen1.6.0/tetgen.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+time.h
+-
+stdint.h
+-
+

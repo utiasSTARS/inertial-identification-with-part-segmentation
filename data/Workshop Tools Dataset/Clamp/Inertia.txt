@@ -1,0 +1,32 @@
+Mass properties of User Library-clamp-3
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 339.65 grams
+
+Volume = 70784.63 cubic millimeters
+
+Surface area = 32655.07  square millimeters
+
+Center of mass: ( millimeters )
+	X = -53.11
+	Y = 16.06
+	Z = 15.36
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.11, -0.03,  0.99)   	Px = 446667.43
+	 Iy = ( 0.95, -0.28, -0.12)   	Py = 1284874.07
+	 Iz = ( 0.28,  0.96,  0.00)   	Pz = 1724742.69
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 1309046.10	Lxy = -122141.64	Lxz = 95169.40
+	Lyx = -122141.64	Lyy = 1688848.29	Lyz = -25174.04
+	Lzx = 95169.40	Lzy = -25174.04	Lzz = 458389.79
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 1476768.38	Ixy = -411869.41	Ixz = -181811.76
+	Iyx = -411869.41	Iyy = 2726836.31	Iyz = 58602.29
+	Izx = -181811.76	Izy = 58602.29	Izz = 1503918.92

@@ -1,0 +1,34 @@
+Mass properties of User Library-Metal Ruler
+     Configuration: Default
+     Coordinate system: -- default --
+
+Density = 0.00 grams per cubic millimeter
+
+Mass = 8.74 grams
+
+Volume = 3236.17 cubic millimeters
+
+Surface area = 7170.75  square millimeters
+
+Center of mass: ( millimeters )
+	X = 81.62
+	Y = 0.50
+	Z = -9.97
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 1.00,  0.00,  0.00)   	Px = 290.64
+	 Iy = ( 0.00,  0.00, -1.00)   	Py = 19460.71
+	 Iz = ( 0.00,  1.00,  0.00)   	Pz = 19749.91
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 290.65	Lxy = 0.02	Lxz = -1.57
+	Lyx = 0.02	Lyy = 19749.91	Lyz = 0.11
+	Lzx = -1.57	Lzy = 0.11	Lzz = 19460.71
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 1161.00	Ixy = 354.24	Ixz = -7110.63
+	Iyx = 354.24	Iyy = 78829.16	Iyz = -43.15
+	Izx = -7110.63	Izy = -43.15	Izz = 77673.92

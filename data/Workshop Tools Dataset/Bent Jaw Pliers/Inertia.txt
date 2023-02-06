@@ -1,0 +1,32 @@
+Mass properties of User Library-08100364 bent jaw pliers
+     Configuration: STOCK
+     Coordinate system: -- default --
+
+Mass = 254.7474 grams
+
+Volume = 32671.5185 cubic millimeters
+
+Surface area = 14181.2755  square millimeters
+
+Center of mass: ( millimeters )
+	X = 9.5456
+	Y = 6.7089
+	Z = 35.6248
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.2587, -0.0171,  0.9658)   	Px = 151568.0159
+	 Iy = ( 0.9659,  0.0092, -0.2586)   	Py = 427549.8969
+	 Iz = (-0.0045,  0.9998,  0.0189)   	Pz = 569778.2107
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 409082.0141	Lxy = -580.0629	Lxz = 68968.0885
+	Lyx = -580.0629	Lyy = 569644.5356	Lyz = -7226.5049
+	Lzx = 68968.0885	Lzy = -7226.5049	Lzz = 170169.5738
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 743854.8312	Ixy = 15734.1206	Ixz = 155597.6656
+	Iyx = 15734.1206	Iyy = 916163.5891	Iyz = 53659.0079
+	Izx = 155597.6656	Izy = 53659.0079	Izz = 204847.8726

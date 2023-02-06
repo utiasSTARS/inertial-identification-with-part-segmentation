@@ -1,0 +1,5 @@
+Handle: Chrome Stainless Steel
+Bearing: Brass
+Center: Alloy Steel
+Ball: Chrome Stainless Steel
+Socket: Alloy Steel

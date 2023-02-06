@@ -1,0 +1,32 @@
+Mass properties of User Library-ScrewDriver1
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 30.43 grams
+
+Volume = 15396.41 cubic millimeters
+
+Surface area = 6352.41  square millimeters
+
+Center of mass: ( millimeters )
+	X = 0.00
+	Y = 0.00
+	Z = 75.94
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.00,  0.00,  1.00)   	Px = 517.45
+	 Iy = ( 0.00, -1.00,  0.00)   	Py = 84690.58
+	 Iz = ( 1.00,  0.00,  0.00)   	Pz = 84690.85
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 84690.85	Lxy = 0.00	Lxz = -0.10
+	Lyx = 0.00	Lyy = 84690.58	Lyz = 0.00
+	Lzx = -0.10	Lzy = 0.00	Lzz = 517.45
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 260172.77	Ixy = 0.00	Ixz = 2.18
+	Iyx = 0.00	Iyy = 260172.50	Iyz = 0.00
+	Izx = 2.18	Izy = 0.00	Izz = 517.45

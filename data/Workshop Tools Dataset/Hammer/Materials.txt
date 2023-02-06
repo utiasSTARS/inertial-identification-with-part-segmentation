@@ -1,0 +1,3 @@
+Head: Cast Carbon Steel
+Shaft: 1060 Aluminium
+Handle: Rubber

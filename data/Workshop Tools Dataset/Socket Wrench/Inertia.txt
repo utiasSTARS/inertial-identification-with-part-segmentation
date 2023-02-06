@@ -1,0 +1,32 @@
+Mass properties of User Library-Socket Wrench and Sockets
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 355.97 grams
+
+Volume = 45459.87 cubic millimeters
+
+Surface area = 19453.09  square millimeters
+
+Center of mass: ( millimeters )
+	X = 0.00
+	Y = -2.77
+	Z = -58.95
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.00, -0.04,  1.00)   	Px = 34958.63
+	 Iy = ( 0.00, -1.00, -0.04)   	Py = 1537019.30
+	 Iz = ( 1.00,  0.00,  0.00)   	Pz = 1547231.52
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 1547231.52	Lxy = 0.35	Lxz = 3.90
+	Lyx = 0.35	Lyy = 1534758.75	Lyz = -58226.94
+	Lzx = 3.90	Lzy = -58226.94	Lzz = 37219.18
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 2787202.11	Ixy = 0.39	Ixz = 4.88
+	Iyx = 0.39	Iyy = 2771988.58	Iyz = 4.95
+	Izx = 4.88	Izy = 4.95	Izz = 39959.95

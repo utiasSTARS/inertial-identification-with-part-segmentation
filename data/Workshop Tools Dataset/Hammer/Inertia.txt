@@ -1,0 +1,32 @@
+Mass properties of User Library-Hammer-2
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 689.70 grams
+
+Volume = 208489.77 cubic millimeters
+
+Surface area = 60845.11  square millimeters
+
+Center of mass: ( millimeters )
+	X = 0.00
+	Y = -43.72
+	Z = -0.94
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.00,  1.00,  0.01)   	Px = 552676.02
+	 Iy = ( 0.00, -0.01,  1.00)   	Py = 6360938.99
+	 Iz = ( 1.00,  0.00,  0.00)   	Pz = 6861629.61
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 6861629.57	Lxy = -91.48	Lxz = 133.98
+	Lyx = -91.48	Lyy = 553201.87	Lyz = 55262.90
+	Lzx = 133.98	Lzy = 55262.90	Lzz = 6360413.18
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 8180469.37	Ixy = 19.97	Ixz = 136.38
+	Iyx = 19.97	Iyy = 553812.68	Iyz = 83638.37
+	Izx = 136.38	Izy = 83638.37	Izz = 7678642.18

@@ -1,0 +1,32 @@
+Mass properties of hammer
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 133.01 grams
+
+Volume = 73860.30 cubic millimeters
+
+Surface area = 19336.94  square millimeters
+
+Center of mass: ( millimeters )
+	X = 92.02
+	Y = 64.40
+	Z = 171.28
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.03,  1.00,  0.00)   	Px = 48079.25
+	 Iy = (-1.00,  0.03,  0.00)   	Py = 648860.43
+	 Iz = ( 0.00,  0.00,  1.00)   	Pz = 691208.36
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 648342.50	Lxy = 17632.21	Lxz = -0.06
+	Lyx = 17632.21	Lyy = 48597.18	Lyz = -0.09
+	Lzx = -0.06	Lzy = -0.09	Lzz = 691208.36
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 5102374.25	Ixy = 805840.04	Ixz = 2096426.49
+	Iyx = 805840.04	Iyy = 5077224.56	Iyz = 1467209.97
+	Izx = 2096426.49	Izy = 1467209.97	Izz = 2369077.99

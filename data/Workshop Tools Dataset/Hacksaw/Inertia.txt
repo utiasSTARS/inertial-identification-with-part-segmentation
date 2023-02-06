@@ -1,0 +1,32 @@
+Mass properties of User Library-scie métaux
+     Configuration: Défaut
+     Coordinate system: -- default --
+
+Mass = 658.28 grams
+
+Volume = 167710.26 cubic millimeters
+
+Surface area = 58397.48  square millimeters
+
+Center of mass: ( millimeters )
+	X = -190.41
+	Y = -98.21
+	Z = -54.51
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 1.00,  0.00,  0.04)   	Px = 1214665.46
+	 Iy = ( 0.04,  0.00, -1.00)   	Py = 12746989.41
+	 Iz = ( 0.00,  1.00,  0.00)   	Pz = 13946693.70
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 1233398.14	Lxy = 315.51	Lxz = 464414.04
+	Lyx = 315.51	Lyy = 13946689.81	Lyz = -2146.84
+	Lzx = 464414.04	Lzy = -2146.84	Lzz = 12728260.61
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 9538540.87	Ixy = 12310583.89	Ixz = 7296365.78
+	Iyx = 12310583.89	Iyy = 39769279.62	Iyz = 3521689.46
+	Izx = 7296365.78	Izy = 3521689.46	Izz = 42944676.38

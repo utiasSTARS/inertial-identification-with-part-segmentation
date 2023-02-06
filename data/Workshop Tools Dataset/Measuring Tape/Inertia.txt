@@ -1,0 +1,34 @@
+Mass properties of User Library-3m Measuring Tape
+     Configuration: Default
+     Coordinate system: -- default --
+
+Density = 0.00 grams per cubic millimeter
+
+Mass = 136.27 grams
+
+Volume = 50471.75 cubic millimeters
+
+Surface area = 12112.69  square millimeters
+
+Center of mass: ( millimeters )
+	X = 23.63
+	Y = 27.11
+	Z = 0.04
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = (-0.27,  0.96,  0.00)   	Px = 30244.98
+	 Iy = (-0.96, -0.27,  0.00)   	Py = 35544.92
+	 Iz = ( 0.00,  0.00,  1.00)   	Pz = 56538.37
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 35165.43	Lxy = -1366.48	Lxz = -9.18
+	Lyx = -1366.48	Lyy = 30624.48	Lyz = 9.49
+	Lzx = -9.18	Lzy = 9.49	Lzz = 56538.36
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 135295.56	Ixy = 85917.50	Ixz = 110.81
+	Iyx = 85917.50	Iyy = 106710.74	Iyz = 147.14
+	Izx = 110.81	Izy = 147.14	Izz = 232754.36

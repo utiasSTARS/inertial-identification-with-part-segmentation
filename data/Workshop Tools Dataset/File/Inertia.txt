@@ -1,0 +1,32 @@
+Mass properties of Sleutelvijl plat
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 19.93 grams
+
+Volume = 10544.21 cubic millimeters
+
+Surface area = 6409.76  square millimeters
+
+Center of mass: ( millimeters )
+	X = 9.36
+	Y = 18.50
+	Z = 96.61
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.00,  0.00,  1.00)   	Px = 299.33
+	 Iy = ( 0.78, -0.63,  0.00)   	Py = 45036.34
+	 Iz = ( 0.63,  0.78,  0.00)   	Pz = 45211.42
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 45105.41	Lxy = -85.57	Lxz = 0.00
+	Lyx = -85.57	Lyy = 45142.35	Lyz = 0.00
+	Lzx = 0.00	Lzy = 0.00	Lzz = 299.33
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 237936.62	Ixy = 3366.17	Ixz = 18025.25
+	Iyx = 3366.17	Iyy = 232899.26	Iyz = 35619.95
+	Izx = 18025.25	Izy = 35619.95	Izz = 8867.09

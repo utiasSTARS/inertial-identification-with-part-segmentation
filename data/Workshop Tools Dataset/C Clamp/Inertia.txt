@@ -1,0 +1,32 @@
+Mass properties of User Library-C Clamp Assembly
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 598.040 grams
+
+Volume = 76547.884 cubic millimeters
+
+Surface area = 25849.927  square millimeters
+
+Center of mass: ( millimeters )
+	X = -43.944
+	Y = 44.070
+	Z = 8.113
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = (-0.202,  0.979, -0.006)   	Px = 492027.834
+	 Iy = (-0.979, -0.202,  0.001)   	Py = 1292833.550
+	 Iz = ( 0.000,  0.006,  1.000)   	Pz = 1759942.392
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 1260061.091	Lxy = -158647.121	Lxz = 1239.981
+	Lyx = -158647.121	Lyy = 524852.959	Lyz = -8058.527
+	Lzx = 1239.981	Lzy = -8058.527	Lzz = 1759889.726
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 2460922.207	Ixy = -1316810.977	Ixz = -211960.993
+	Iyx = -1316810.977	Iyy = 1719049.650	Iyz = 205756.741
+	Izx = -211960.993	Izy = 205756.741	Izz = 4076227.025

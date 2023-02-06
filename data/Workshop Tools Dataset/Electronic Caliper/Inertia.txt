@@ -1,0 +1,32 @@
+Mass properties of Electronic caliper
+     Configuration: Défaut
+     Coordinate system: -- default --
+
+Mass = 173.74 grams
+
+Volume = 37079.04 cubic millimeters
+
+Surface area = 35139.91  square millimeters
+
+Center of mass: ( millimeters )
+	X = -70.64
+	Y = -104.33
+	Z = 343.99
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.03,  0.00,  1.00)   	Px = 19481.54
+	 Iy = ( 1.00,  0.02, -0.03)   	Py = 622766.66
+	 Iz = (-0.02,  1.00,  0.00)   	Pz = 640037.40
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 622334.29	Lxy = 221.71	Lxz = 16235.52
+	Lyx = 221.71	Lyy = 640022.13	Lyz = -2546.37
+	Lzx = 16235.52	Lzy = -2546.37	Lzz = 19929.18
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 23072045.72	Ixy = 1280617.78	Ixz = -4205294.36
+	Iyx = 1280617.78	Iyy = 22065379.82	Iyz = -6237968.57
+	Izx = -4205294.36	Izy = -6237968.57	Izz = 2778000.41

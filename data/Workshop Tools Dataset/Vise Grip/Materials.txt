@@ -1,0 +1,6 @@
+Base: Chrome Stainless Steel
+Handle: Chrome Stainless Steel
+Top: Chrome Stainless Steel
+Middle: Chrome Stainless Steel
+Spring: Ductile Iron
+Screws: Allow Steel

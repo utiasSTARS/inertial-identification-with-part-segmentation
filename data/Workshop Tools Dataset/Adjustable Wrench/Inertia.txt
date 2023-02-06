@@ -1,0 +1,32 @@
+Mass properties of User Library-Adjustable Large Wrench
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 718.95 grams
+
+Volume = 92111.33 cubic millimeters
+
+Surface area = 38047.57  square millimeters
+
+Center of mass: ( millimeters )
+	X = 57.75
+	Y = 0.00
+	Z = -2.15
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 1.00,  0.00, -0.02)   	Px = 187681.74
+	 Iy = (-0.02,  0.00, -1.00)   	Py = 5165755.09
+	 Iz = ( 0.00,  1.00,  0.00)   	Pz = 5324778.39
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 190264.94	Lxy = 72.15	Lxz = -113369.75
+	Lyx = 72.15	Lyy = 5324778.39	Lyz = 27.79
+	Lzx = -113369.75	Lzy = 27.79	Lzz = 5163171.89
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 193593.84	Ixy = 220.58	Ixz = -202715.55
+	Iyx = 220.58	Iyy = 7726110.04	Iyz = 22.26
+	Izx = -202715.55	Izy = 22.26	Izz = 7561174.67

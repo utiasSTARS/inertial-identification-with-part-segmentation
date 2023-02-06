@@ -1,0 +1,32 @@
+Mass properties of Pliers
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 633.18 grams
+
+Volume = 81176.40 cubic millimeters
+
+Surface area = 26901.31  square millimeters
+
+Center of mass: ( millimeters )
+	X = 160.83
+	Y = 141.15
+	Z = 157.53
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 1.00, -0.03, -0.01)   	Px = 230056.50
+	 Iy = ( 0.03,  1.00, -0.05)   	Py = 2415550.32
+	 Iz = ( 0.01,  0.05,  1.00)   	Pz = 2615481.47
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 232637.56	Lxy = -73573.11	Lxz = -15933.87
+	Lyx = -73573.11	Lyy = 2413611.78	Lyz = -9851.07
+	Lzx = -15933.87	Lzy = -9851.07	Lzz = 2614838.96
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 28561145.91	Ixy = 14300553.53	Ixz = 16026161.77
+	Iyx = 14300553.53	Iyy = 34504692.33	Iyz = 14069468.42
+	Izx = 16026161.77	Izy = 14069468.42	Izz = 31608269.52

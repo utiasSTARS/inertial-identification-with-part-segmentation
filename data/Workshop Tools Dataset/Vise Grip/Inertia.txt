@@ -1,0 +1,32 @@
+Mass properties of User Library-Assem-VIS-GRIP
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 387.42 grams
+
+Volume = 49685.34 cubic millimeters
+
+Surface area = 37338.39  square millimeters
+
+Center of mass: ( millimeters )
+	X = -3.70
+	Y = 0.00
+	Z = 43.66
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.08,  0.00,  1.00)   	Px = 61497.30
+	 Iy = ( 1.00,  0.00, -0.08)   	Py = 875572.13
+	 Iz = ( 0.00,  1.00,  0.00)   	Pz = 926364.30
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 870022.79	Lxy = 0.27	Lxz = 66983.45
+	Lyx = 0.27	Lyy = 926364.30	Lyz = 0.74
+	Lzx = 66983.45	Lzy = 0.74	Lzz = 67046.64
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 1608538.77	Ixy = 0.18	Ixz = 4392.84
+	Iyx = 0.18	Iyy = 1670184.95	Iyz = 1.83
+	Izx = 4392.84	Izy = 1.83	Izz = 72351.31

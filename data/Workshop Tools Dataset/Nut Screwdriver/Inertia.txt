@@ -1,0 +1,32 @@
+Mass properties of Screwdriver
+     Configuration: Default
+     Coordinate system: -- default --
+
+Mass = 81.30 grams
+
+Volume = 37206.14 cubic millimeters
+
+Surface area = 10871.79  square millimeters
+
+Center of mass: ( millimeters )
+	X = 18.32
+	Y = 27.80
+	Z = -15.05
+
+Principal axes of inertia and principal moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass.
+	 Ix = ( 0.00,  0.00,  1.00)   	Px = 2891.49
+	 Iy = ( 0.71, -0.71,  0.00)   	Py = 404211.50
+	 Iz = ( 0.71,  0.71,  0.00)   	Pz = 404211.50
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the center of mass and aligned with the output coordinate system.
+	Lxx = 404211.50	Lxy = 0.00	Lxz = 0.00
+	Lyx = 0.00	Lyy = 404211.50	Lyz = 0.01
+	Lzx = 0.00	Lzy = 0.01	Lzz = 2891.49
+
+Moments of inertia: ( grams *  square millimeters )
+Taken at the output coordinate system.
+	Ixx = 485478.20	Ixy = 41399.01	Ixz = -22412.95
+	Iyx = 41399.01	Iyy = 449902.79	Iyz = -34024.28
+	Izx = -22412.95	Izy = -34024.28	Izz = 93008.76
